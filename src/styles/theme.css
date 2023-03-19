@@ -1,0 +1,69 @@
+/* src/styles/theme.css */
+:root {
+    /* Primary */
+    --lucid-color-primary: #3880ff;
+    --lucid-color-primary-rgb: 56, 128, 255;
+    --lucid-color-primary-contrast: #ffffff;
+    --lucid-color-primary-contrast-rgb: 255, 255, 255;
+    --lucid-color-primary-shade: #3171e0;
+    --lucid-color-primary-tint: #4c8dff;
+  
+    /* Secondary */
+    --lucid-color-secondary: #0cd1e8;
+    --lucid-color-secondary-rgb: 12, 209, 232;
+    --lucid-color-secondary-contrast: #ffffff;
+    --lucid-color-secondary-contrast-rgb: 255, 255, 255;
+    --lucid-color-secondary-shade: #0bb8cc;
+    --lucid-color-secondary-tint: #24d6ea;
+  
+    /* Tertiary */
+    --lucid-color-tertiary: #7044ff;
+    --lucid-color-tertiary-rgb: 112, 68, 255;
+    --lucid-color-tertiary-contrast: #ffffff;
+    --lucid-color-tertiary-contrast-rgb: 255, 255, 255;
+    --lucid-color-tertiary-shade: #633ce0;
+    --lucid-color-tertiary-tint: #7e57ff;
+  
+    /* Success */
+    --lucid-color-success: #10dc60;
+    --lucid-color-success-rgb: 16, 220, 96;
+    --lucid-color-success-contrast: #ffffff;
+    --lucid-color-success-contrast-rgb: 255, 255, 255;
+    --lucid-color-success-shade: #0ec254;
+    --lucid-color-success-tint: #28e070;
+  
+    /* Warning */
+    --lucid-color-warning: #ffce00;
+    --lucid-color-warning-rgb: 255, 206, 0;
+    --lucid-color-warning-contrast: #ffffff;
+    --lucid-color-warning-contrast-rgb: 255, 255, 255;
+    --lucid-color-warning-shade: #e0b500;
+    --lucid-color-warning-tint: #ffd31a;
+  
+    /* Danger */
+    --lucid-color-danger: #f04141;
+    --lucid-color-danger-rgb: 245, 61, 61;
+    --lucid-color-danger-contrast: #ffffff;
+    --lucid-color-danger-contrast-rgb: 255, 255, 255;
+    --lucid-color-danger-shade: #d33939;
+    --lucid-color-danger-tint: #f25454;
+  
+    /* Dark */
+    --lucid-color-dark: #222428;
+    --lucid-color-dark-rgb: 34, 34, 34;
+    --lucid-color-dark-contrast: #ffffff;
+    --lucid-color-dark-contrast-rgb: 255, 255, 255;
+    --lucid-color-dark-shade: #1e2023;
+    --lucid-color-dark-tint: #383a3e;
+  
+    /* Light */
+    --lucid-color-light: #f4f5f8;
+    --lucid-color-light-rgb: 244, 244, 244;
+    --lucid-color-light-contrast: #000000;
+    --lucid-color-light-contrast-rgb: 0, 0, 0;
+    --lucid-color-light-shade: #d7d8da;
+    --lucid-color-light-tint: #f5f6f9;
+
+}
+
+  
